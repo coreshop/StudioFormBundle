@@ -20,8 +20,8 @@
       "api": ""
     },
     "globalName": "coreshopstudioform",
-    "pluginVersion": "2.5.1",
-    "publicPath": "/bundles/coreshopstudioform/studio/fc38dac9-051a-4069-b134-94b24da28b89/"
+    "pluginVersion": "2.8.0",
+    "publicPath": "/bundles/coreshopstudioform/studio/50f0768a-aaef-4d6e-9f24-e3c470afc25d/"
   },
   "shared": [
     {
@@ -37,7 +37,7 @@
         "js": {
           "async": [],
           "sync": [
-            "static/js/async/920.380c2a86.js"
+            "static/js/async/920.2c9f9129.js"
           ]
         },
         "css": {
@@ -62,7 +62,7 @@
         "js": {
           "async": [],
           "sync": [
-            "static/js/async/63.03756cf0.js"
+            "static/js/async/63.16b207a4.js"
           ]
         },
         "css": {
@@ -89,8 +89,8 @@
         "js": {
           "async": [],
           "sync": [
-            "static/js/async/695.e08ba12a.js",
-            "static/js/async/76.c1bdf220.js"
+            "static/js/async/695.20dc57d5.js",
+            "static/js/async/76.51632edc.js"
           ]
         },
         "css": {
@@ -117,7 +117,7 @@
         "js": {
           "async": [],
           "sync": [
-            "static/js/async/375.fb26965d.js"
+            "static/js/async/375.6a43d7ed.js"
           ]
         },
         "css": {
@@ -168,9 +168,9 @@
       "assets": {
         "js": {
           "sync": [
-            "static/js/179.55b2f5fb.js",
-            "static/js/async/615.d6a07ed2.js",
-            "static/js/async/__federation_expose_default_export.0ae99504.js"
+            "static/js/179.1d6f2a6e.js",
+            "static/js/async/615.75344c1f.js",
+            "static/js/async/__federation_expose_default_export.ac6f4c07.js"
           ],
           "async": []
         },
