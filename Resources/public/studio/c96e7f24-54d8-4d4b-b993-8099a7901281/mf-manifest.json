@@ -21,7 +21,7 @@
     },
     "globalName": "coreshopstudioform",
     "pluginVersion": "2.5.1",
-    "publicPath": "/bundles/coreshopstudioform/studio/172e293a-0c54-48cf-a7e9-ca16c2bd79ce/"
+    "publicPath": "/bundles/coreshopstudioform/studio/c96e7f24-54d8-4d4b-b993-8099a7901281/"
   },
   "shared": [
     {
@@ -129,7 +129,7 @@
           "sync": [
             "static/js/179.55b2f5fb.js",
             "static/js/async/615.d6a07ed2.js",
-            "static/js/async/__federation_expose_default_export.0ae99504.js"
+            "static/js/async/__federation_expose_default_export.a6a5c396.js"
           ],
           "async": []
         },
